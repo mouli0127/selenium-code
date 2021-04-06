@@ -1,0 +1,9 @@
+<suite name = "empDemo" parallel="methods" thread-count = "2" >
+
+<test name = "register">
+<classes>
+<class name = "parallel.Ex3" />
+</classes>
+</test>
+
+</suite>

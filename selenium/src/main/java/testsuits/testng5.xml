@@ -1,0 +1,15 @@
+<suite name = "empDemo">
+  
+   <test name = "register">
+      <classes>
+        <class name="testsuits.Test6">
+        	 <methods>  
+					<exclude name="test.*"/> 
+			</methods> 
+		</class>
+        
+      </classes>
+   </test>
+   
+   
+   </suite> 

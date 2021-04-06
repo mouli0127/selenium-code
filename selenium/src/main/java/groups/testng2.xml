@@ -1,0 +1,19 @@
+<suite name = "empDemo">
+
+
+<test name = "myapp">
+
+<groups>
+<run>
+<include name="login" />
+<include name="changepwd" />
+</run>
+</groups>
+
+<classes>
+<class name="groups.Test1"/>
+</classes>
+</test>
+
+
+</suite>

@@ -1,0 +1,19 @@
+<suite name = "empDemo">
+
+<parameter name = "userName" value="admin123"/>
+
+<test name = "register">
+<classes>
+<class name="params.T1"/>
+</classes>
+</test>
+
+
+<test name = "login">
+<classes>
+<class name="params.T2"/>
+</classes>
+</test>
+
+
+</suite>

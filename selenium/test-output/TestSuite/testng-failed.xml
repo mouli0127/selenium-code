@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [TestSuite]" parallel="classes">
+  <test name="register(failed)" parallel="classes">
+    <classes>
+      <class name="parallel.Ex1">
+        <methods>
+          <include name="quit"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- parallel.Ex1 -->
+      <class name="parallel.Ex2">
+        <methods>
+          <include name="google"/>
+        </methods>
+      </class> <!-- parallel.Ex2 -->
+    </classes>
+  </test> <!-- register(failed) -->
+</suite> <!-- Failed suite [TestSuite] -->

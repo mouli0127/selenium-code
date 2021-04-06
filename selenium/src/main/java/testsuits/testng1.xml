@@ -1,0 +1,10 @@
+<suite name = "empDemo">
+  
+   <test name = "register">
+      <classes>
+        <class name="testsuits.Test1"/>
+        <class name="testsuits.Test2"/>
+      </classes>
+   </test>
+   
+   </suite> 

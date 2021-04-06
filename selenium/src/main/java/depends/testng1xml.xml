@@ -1,0 +1,12 @@
+<suite name = "empDemo">
+  
+  
+   <test name = "myapp">
+     
+      <classes>
+     	 <class name="depends.TestGroupDepends"/>
+      </classes>
+    </test>
+    
+    
+</suite> 

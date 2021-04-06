@@ -1,0 +1,13 @@
+<suite name = "empDemo" parallel="tests">
+<test name = "register">
+<classes>
+<class name = "parallel.Ex1" />
+</classes>
+</test>
+
+<test name = "login">
+<classes>
+<class name = "parallel.Ex2" />
+</classes>
+</test>
+</suite>
